@@ -2,6 +2,10 @@
 
 This repo contains the free 3d files for the fan i use in my compute server. It uses a single 150mm 12V blower fan to push a lot of air through not one but two gpus at once, with minimal noise compared to other solutions.
 
+It requires a bunch of M3 bolts and heat inserts, as well as a soldering iron and hot glue gun for joining the parts in an airtight way.
+
+the fan body and the separator should be glued / ironed together, the separator then screws into the adapter that screws into the MI50s
+
 here is how i use it:
 
 ![](./images/a3.jpg)
