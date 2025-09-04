@@ -2,6 +2,10 @@
 
 This repo contains the free 3d files for the fan i use in my compute server. It uses a single 150mm 12V blower fan to push a lot of air through not one but two gpus at once, with minimal noise compared to other solutions.
 
+here is how i use it:
+
+![](./images/a3.jpg)
+
 # purchasing the fan
 just type 150mm 12V blower fan on aliexpress, it costs about 15€ a piece, it's one of these:
 
